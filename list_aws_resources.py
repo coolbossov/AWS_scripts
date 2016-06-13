@@ -18,6 +18,7 @@ if action == "L" or action == "List" or action == "L-ist":
     instances_tag = reservations[select_reservation].instances[]
     print "Your instances in reservation %s are %s" % (reservations[select_reservation],
                                                        instances.instances)  # print "Your instances in reservation " + reservations + " are " + instances.instances
+
 else:
     print "error"
 
