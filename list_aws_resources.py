@@ -20,6 +20,7 @@ if action == "L" or action == "List" or action == "L-ist":
                                                        instances.instances)  # print "Your instances in reservation " + reservations + " are " + instances.instances
 
 
+
 else:
     print "error"
 
