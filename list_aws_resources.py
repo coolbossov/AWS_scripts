@@ -1,7 +1,6 @@
 import boto.ec2
 
-conn = boto.ec2.connect_to_region("us-east-1", aws_access_key_id='AKIAJOKH4OR3SHZAJRQQ',
-                                  aws_secret_access_key='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')
+conn = boto.ec2.connect_to_region()
 
 # choose the action you want to perform
 # TODO: try using argparse insted of raw_input..
