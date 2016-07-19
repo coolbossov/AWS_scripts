@@ -1,0 +1,19 @@
+1, cf-templates-lvtusxk1w61r-us-east-1 , Tue, 19 Jul 2016 10:12:56 GMT, <Policy: aws-contact (owner) = FULL_CONTROL>
+2, email_static , Tue, 19 Jul 2016 10:12:58 GMT, <Policy: aws-contact (owner) = FULL_CONTROL>
+3, eyalfive-access-logs , Tue, 19 Jul 2016 10:12:59 GMT, <Policy: aws-contact (owner) = FULL_CONTROL>
+4, eyalltest , Tue, 19 Jul 2016 10:13:00 GMT, <Policy: aws-contact (owner) = READ, aws-contact (owner) = WRITE, aws-contact (owner) = READ_ACP, aws-contact (owner) = WRITE_ACP, http://acs.amazonaws.com/groups/global/AllUsers = READ, http://acs.amazonaws.com/groups/global/AllUsers = WRITE, http://acs.amazonaws.com/groups/global/AllUsers = READ_ACP, http://acs.amazonaws.com/groups/global/AllUsers = WRITE_ACP>
+5, friedran-s3-test , Tue, 19 Jul 2016 10:13:02 GMT, <Policy: awsdatafeeds = FULL_CONTROL, aws-contact (owner) = FULL_CONTROL>
+6, fundbox , Tue, 19 Jul 2016 10:13:03 GMT, <Policy: aws-contact (owner) = FULL_CONTROL>
+7, fundbox-alex-testing-local , Tue, 19 Jul 2016 10:14:54 GMT, <Policy: aws-contact (owner) = READ, aws-contact (owner) = WRITE, aws-contact (owner) = READ_ACP, aws-contact (owner) = WRITE_ACP, http://acs.amazonaws.com/groups/global/AuthenticatedUsers = READ, http://acs.amazonaws.com/groups/global/AuthenticatedUsers = WRITE, http://acs.amazonaws.com/groups/global/AuthenticatedUsers = READ_ACP, http://acs.amazonaws.com/groups/global/AuthenticatedUsers = WRITE_ACP, http://acs.amazonaws.com/groups/global/AllUsers = READ, http://acs.amazonaws.com/groups/s3/LogDelivery = WRITE, http://acs.amazonaws.com/groups/s3/LogDelivery = READ_ACP>
+8, fundbox-backup-code , Tue, 19 Jul 2016 10:14:56 GMT, <Policy: aws-contact (owner) = FULL_CONTROL>
+9, fundbox-backup-local , Tue, 19 Jul 2016 10:14:59 GMT, <Policy: aws-contact (owner) = FULL_CONTROL>
+10, fundbox-backup-logs , Tue, 19 Jul 2016 10:15:00 GMT, <Policy: aws-contact (owner) = FULL_CONTROL>
+11, fundbox-backup-logs-demo , Tue, 19 Jul 2016 10:15:01 GMT, <Policy: aws-contact (owner) = FULL_CONTROL>
+12, fundbox-backup-logs-production , Tue, 19 Jul 2016 10:15:03 GMT, <Policy: aws-contact (owner) = READ, aws-contact (owner) = WRITE, aws-contact (owner) = READ_ACP, aws-contact (owner) = WRITE_ACP, http://acs.amazonaws.com/groups/global/AuthenticatedUsers = READ, http://acs.amazonaws.com/groups/global/AuthenticatedUsers = WRITE>
+13, fundbox-backup-logs-staging , Tue, 19 Jul 2016 10:15:04 GMT, <Policy: aws-contact (owner) = READ, aws-contact (owner) = WRITE, aws-contact (owner) = READ_ACP, aws-contact (owner) = WRITE_ACP, http://acs.amazonaws.com/groups/global/AuthenticatedUsers = READ, http://acs.amazonaws.com/groups/global/AuthenticatedUsers = WRITE, http://acs.amazonaws.com/groups/global/AllUsers = READ, http://acs.amazonaws.com/groups/global/AllUsers = READ_ACP>
+14, fundbox-backup-logs-t2 , Tue, 19 Jul 2016 10:15:05 GMT, <Policy: aws-contact (owner) = FULL_CONTROL>
+15, fundbox-backup-maxprod , Tue, 19 Jul 2016 10:15:07 GMT, <Policy: aws-contact (owner) = FULL_CONTROL>
+16, fundbox-backup-production , Tue, 19 Jul 2016 10:15:13 GMT, <Policy: aws-contact (owner) = FULL_CONTROL>
+17, fundbox-backup-s3test , Tue, 19 Jul 2016 10:15:14 GMT, <Policy: aws-contact (owner) = FULL_CONTROL>
+18, fundbox-backup-s3test2 , Tue, 19 Jul 2016 10:15:17 GMT, <Policy: aws-contact (owner) = FULL_CONTROL>
+19, fundbox-backup-staging , Tue, 19 Jul 2016 10:15:26 GMT, <Policy: aws-contact (owner) = FULL_CONTROL>
